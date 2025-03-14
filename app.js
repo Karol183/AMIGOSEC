@@ -38,4 +38,5 @@ if(!nombreAmigo) { // ! se niega variable (sino tengo)
 
         let limpiar = document.getElementById("listaAmigos");
         limpiar.innerHTML = "";
-        } 
+        }
+        
